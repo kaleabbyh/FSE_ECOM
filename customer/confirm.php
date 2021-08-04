@@ -280,7 +280,7 @@ if(isset($_GET['order_id'])){
                        
                        <div class="form-group"><!-- form-group Begin -->
                            
-                         <label> Paypall / Payoneer / Western Union Code: </label>
+                         <label> ATM / CBE BIRR / MOBILE Code: </label>
                           
                           <input type="text" class="form-control" name="code" required>
                            
