@@ -98,7 +98,7 @@
                                        
                                        <td>
                                            
-                                           <img class="img-responsive" src="admin_area/product_images/<?php echo $product_img1; ?>" alt="Product 3a">
+                                           <img class="img-responsive" src="admin_area/product_images/<?php echo $product_img1; ?>" alt="img">
                                            
                                        </td>
                                        

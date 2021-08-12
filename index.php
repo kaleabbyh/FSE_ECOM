@@ -124,7 +124,7 @@
                            
                        </div><!-- icon Finish -->
                        
-                       <h3><a href="#">Best Prices</a></h3>
+                       <h3><a href="#">Best offer</a></h3>
                        
                        <p>not danger for pocket.</p>
                        

@@ -116,6 +116,10 @@ if(isset($_GET['pro_id'])){
                            
                        </a>
                    </li>
+
+                   <li>
+                       <a href="admin_area/login.php">admin-panel</a>
+                   </li>
                    
                </ul><!-- menu Finish -->
                
