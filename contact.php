@@ -1,4 +1,9 @@
+<?php 
+    
+    $active='Contact';
+    include("includes/header.php");
 
+?>
   
    <div id="content"><!-- #content Begin -->
        <div class="container"><!-- container Begin -->
